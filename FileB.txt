@@ -1,1 +1,1 @@
-"This is FileB with GitHub integration" 
+"This is FileB with GitHub integration another test" 
